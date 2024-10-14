@@ -1,4 +1,4 @@
-# InstaCartPythonCode
+# CareerFoundry Data Analytics Program: InstaCartPythonCode
 Description of CareerFoundry Instacart Project:
 Perform initial data and exploratory analysis to identify purchasing behaviors of different customers. The analysis should cover a wide range of purchasing behaviors that will influence marketing campaigns.
 Below is the project brief and final report:
